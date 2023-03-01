@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+body{
+    align-content: center;
+    display: grid;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(#252930 50%, #5372F0 50%); 
+}
+
+button {
+    font-size: 50px;
+    padding: 25px 46px;
+    background: #fff;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    color: #5372F0;
+    cursor: pointer;
+    
+}
